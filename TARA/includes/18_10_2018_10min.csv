@@ -1,4 +1,4 @@
-DateTime,Accelerometer x,y,z,Temperature,Lux,Humidity,Proximity,Pressure,Altitude,Roll,Pitch 
+DateTime,Accelerometer,x,y,z,Temperature,Lux,Humidity,Proximity,Pressure,Altitude,Roll,Pitch
 2018-10-18 3:1:0.000,1.10,0.46,-9.22,21.63,19.00,43.66,0.82,102841.04,-136.46,177.16,-6.80
 2018-10-18 3:1:0.500,1.11,0.50,-9.20,21.63,19.00,43.64,0.82,102835.53,-135.96,176.91,-6.88
 2018-10-18 3:1:1.000,1.06,0.01,-9.20,21.64,17.00,43.65,0.82,102834.41,-135.86,179.95,-6.60
